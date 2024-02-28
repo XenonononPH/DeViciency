@@ -1,0 +1,28 @@
+<resources>
+	<string name="app_name">DeViciency</string>
+	<string name="A">A</string>
+	<string name="B1">B1</string>
+	<string name="B2">B2</string>
+	<string name="B3">B3</string>
+	<string name="B5">B5</string>
+	<string name="B6">B6</string>
+	<string name="B7">B7</string>
+	<string name="B9">B9</string>
+	<string name="B12">B12</string>
+	<string name="B">B</string>
+	<string name="C">C</string>
+	<string name="D">D</string>
+	<string name="E">E</string>
+	<string name="K">K</string>
+	<string name="M">Minerals</string>
+	<string name="V">Vitamins</string>
+	<string name="Submit">Submit</string>
+	<string name="Clear">Clear</string>
+	<string name="top">Welcome to DeViency!</string>
+	<string name="ins">DeViency helps you to know what you would intake if you are deficient on a certain vitamin.</string>
+	<string name="tru">Select a button of your vitamin of choice. You can select and deselect a button.</string>
+	<string name="cti">Then, select submit so the application will start finding for sources of vitamins.</string>
+	<string name="ons">To clear out all choices, select the clear button.</string>
+	<string name="dis">*DISCLAMER*</string>
+	<string name="warn">This application should not be used as a prescription. It is strongly advised to consult a dietitian first.</string>
+</resources>
